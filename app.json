@@ -1,14 +1,16 @@
 {
   "expo": {
-    "name": "maze-music-app",
+    "name": "maze-music",
     "slug": "maze-music-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/maze_2.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/maze_2.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "width": 5,
+      "height": 5,
+      "backgroundColor": "#292929"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -19,8 +21,12 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "maze.music",
+      "versionCode": 1
+    },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/maze_2.png"
     }
   }
 }
