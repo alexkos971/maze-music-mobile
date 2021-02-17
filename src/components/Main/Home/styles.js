@@ -105,8 +105,8 @@ const styles = StyleSheet.create({
         height: '100%',
         position: 'relative',
         left: 15,
-        borderWidth: 1,
-        borderColor: '#000',
+        // borderWidth: 1,
+        // borderColor: '#000',
         // marginBottom: 40,
         // overflow: 'hidden'
     }, 
