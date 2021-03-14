@@ -1,0 +1,10 @@
+{
+  "name": "mazeMusicMobile",
+  "displayName": "mazeMusicMobile",
+  "icon": "./assets/icons/icon.png",
+  "splash": {
+    "image": "./assets/img/logo.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#F4F6F8"
+  }
+}
